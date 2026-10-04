@@ -1,0 +1,1 @@
+# stjsencoded-multi-tier-aws-architecture
